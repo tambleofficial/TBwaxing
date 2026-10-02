@@ -149,11 +149,11 @@ h2 {
 .step-grid h3 { font-size: 18px; font-weight: 600; margin: 6px 0; }
 .step-grid p { color: #C9C1B6; font-size: 15px; }
 
-/* 공간: 기존 디자인을 유지한 가로 스냅 캐러셀 */
+/* 공간: 기존 디자인 유지 + 가로 스냅 캐러셀 */
 .space-grid {
   display: grid;
   grid-auto-flow: column;
-  grid-auto-columns: min(82%, 360px);
+  grid-auto-columns: min(72%, 320px);
   gap: 12px;
   overflow-x: auto;
   overflow-y: hidden;
@@ -189,10 +189,10 @@ h2 {
 }
 .space-item .space-card { width: 100%; max-width: none; }
 @media (min-width: 720px) {
-  .space-grid { grid-auto-columns: 42%; }
+  .space-grid { grid-auto-columns: calc((100% - 36px) / 4); }
 }
 @media (min-width: 1024px) {
-  .space-grid { grid-auto-columns: 36%; }
+  .space-grid { grid-auto-columns: calc((100% - 84px) / 8); }
 }
 
 /* 왁싱 정보 */
