@@ -286,3 +286,12 @@ h2 {
 .contact-card p { font-size: 20px; font-weight: 500; }
 .contact-card .more { margin-top: 12px; font-size: 14px; font-weight: 600; }
 .copyright a { color: #8A8278; }
+
+/* 메인 공간 캐러셀: 8개 이미지별 검색 주제 보조 캡션 */
+#space .space-grid figcaption {
+  margin-top: 7px;
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--muted);
+  word-break: keep-all;
+}
