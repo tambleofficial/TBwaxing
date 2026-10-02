@@ -10,7 +10,7 @@
 - 전화번호·카톡 주소: index.html, 404.html 에서 010-3901-2337 / pf.kakao.com/_QqyKn 검색
 - 색상·글꼴: assets/css/style.css 상단 :root
 - 첫 화면 이미지: assets/images/hero.jpg 교체 (마케팅 문의 문구가 들어간 완성 이미지)
-- 공간 사진: assets/images/space-1~3.jpg 교체
+- 공간 사진: assets/images/space-1~8.webp 교체
 
 ## 페이지 목록
 - / (메인), /service/ (왁싱 안내), /service/brazilian/, /service/male-brazilian/, /service/sugaring/, /service/pregnancy/
@@ -24,7 +24,9 @@
 - /seoul/gangnam/index.html 처럼 폴더를 만들고 sitemap.xml 에 URL 추가
 - 아직 없는 주소는 404.html(준비 중 안내)로 연결됩니다.
 
-## 사진 출처 (Unsplash 라이선스, 실제 지점 사진으로 교체 권장)
-- hero.jpg: Atikah Akhtar
-- space-1.jpg, space-3.jpg: visualsofdana
-- space-2.jpg: Cherosi
+## 사진 출처
+- hero 이미지: 사용자 제공 원본을 WebP로 최적화
+- 공간 캐러셀 이미지(무료 사용): Pexels
+  - space-1.webp ~ space-6.webp: Max Vakhtbovych
+  - space-7.webp: RDNE Stock project
+  - space-8.webp: Max Vakhtbovych
