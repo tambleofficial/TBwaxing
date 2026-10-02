@@ -30,3 +30,8 @@
   - space-1.webp ~ space-6.webp: Max Vakhtbovych
   - space-7.webp: RDNE Stock project
   - space-8.webp: Max Vakhtbovych
+
+## 메인 안내 캐러셀(v8)
+- 8개 카드가 각각 실제 안내 페이지로 연결됩니다.
+- 공간 소개 이미지는 기존 로컬 이미지, 나머지 7개는 Pexels 무료 이미지 CDN을 사용합니다.
+- 연결: /space/, /first-visit.html, /process/, /service/brazilian/, /service/male-brazilian/, /service/sugaring/, /service/pregnancy/, /faq/

@@ -182,8 +182,10 @@ h2 {
   object-fit: cover;
 }
 .space-item {
+  display: block;
   width: 100%;
   margin: 0;
+  color: inherit;
   scroll-snap-align: start;
   scroll-snap-stop: always;
 }
