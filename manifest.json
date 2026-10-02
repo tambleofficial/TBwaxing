@@ -1,0 +1,20 @@
+{
+  "region": "부산",
+  "added": [
+    "region/busan.html",
+    "DEPLOY.txt",
+    "manifest.json"
+  ],
+  "updated": [
+    "_redirects",
+    "sitemap.xml"
+  ],
+  "deleted": [],
+  "unchanged": [
+    "index.html",
+    "find/index.html",
+    "assets/css/style.css",
+    "assets/js/main.js",
+    "assets/images/space-4.webp"
+  ]
+}
