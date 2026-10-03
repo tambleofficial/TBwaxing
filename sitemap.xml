@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tbwaxing.pages.dev/</loc>
@@ -53,19 +53,23 @@
     <lastmod>2026-10-03</lastmod>
   </url>
   <url>
-    <loc>https://tbwaxing.pages.dev/region/busan/haeundae.html</loc>
+    <loc>https://tbwaxing.pages.dev/region/daejeon.html</loc>
     <lastmod>2026-10-03</lastmod>
   </url>
   <url>
-    <loc>https://tbwaxing.pages.dev/region/busan/suyeong.html</loc>
+    <loc>https://tbwaxing.pages.dev/region/daejeon/brazilian.html</loc>
     <lastmod>2026-10-03</lastmod>
   </url>
   <url>
-    <loc>https://tbwaxing.pages.dev/region/busan/busanjin.html</loc>
+    <loc>https://tbwaxing.pages.dev/region/daejeon/male-brazilian.html</loc>
     <lastmod>2026-10-03</lastmod>
   </url>
   <url>
-    <loc>https://tbwaxing.pages.dev/region/busan/dongnae.html</loc>
+    <loc>https://tbwaxing.pages.dev/region/daejeon/sugaring.html</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://tbwaxing.pages.dev/region/daejeon/pregnancy.html</loc>
     <lastmod>2026-10-03</lastmod>
   </url>
 </urlset>
