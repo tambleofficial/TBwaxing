@@ -2,4 +2,9 @@
 
 /busan/ /region/busan.html 301
 
-/daejeon/ /region/daejeon.html 301
+/daejeon/ /region/daejeon 301
+
+/daegu/ /region/daegu 301
+/incheon/ /region/incheon 301
+/gwangju/ /region/gwangju 301
+/ulsan/ /region/ulsan 301

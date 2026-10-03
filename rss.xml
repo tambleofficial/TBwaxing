@@ -1,44 +1,184 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>TB왁싱</title>
     <link>https://tbwaxing.pages.dev/</link>
     <description>TB왁싱 전국 지점 안내와 왁싱 관리 정보</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 03 Oct 2026 19:19:00 +0900</lastBuildDate>
-    <atom:link href="https://tbwaxing.pages.dev/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Oct 2026 21:59:00 +0900</lastBuildDate>
+    <ns0:link href="https://tbwaxing.pages.dev/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>대구 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/daegu</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daegu</guid>
+      <description>대구 지역의 브라질리언, 남자 브라질리언, 슈가링, 임산부 왁싱 선택과 예약 전 준비를 정리했습니다.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>대구 브라질리언 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/daegu/brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daegu/brazilian</guid>
+      <description>대구 브라질리언 왁싱을 알아볼 때 전체 제거, 모양 남기기, 라인 정리의 차이와 방문 전 준비, 관리 후 주의사항을 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>대구 남자 브라질리언 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/daegu/male-brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daegu/male-brazilian</guid>
+      <description>대구 남자 브라질리언 왁싱 첫 방문 전에 관리 범위, 털 길이, 시간 여유와 피부 상태 전달사항을 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>대구 슈가링 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/daegu/sugaring</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daegu/sugaring</guid>
+      <description>대구 슈가링 왁싱을 찾을 때 재료, 사용 온도, 털 제거 방향 등 일반 왁싱과 비교할 포인트와 관리 후 준비를 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>대구 임산부 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/daegu/pregnancy</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daegu/pregnancy</guid>
+      <description>대구 임산부 왁싱을 알아볼 때 담당 의료진 상담, 임신 주수와 당일 컨디션 등 예약 전에 확인할 내용을 정리했습니다.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>인천 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/incheon</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/incheon</guid>
+      <description>인천 지역의 브라질리언, 남자 브라질리언, 슈가링, 임산부 왁싱 선택과 예약 전 준비를 정리했습니다.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>인천 브라질리언 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/incheon/brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/incheon/brazilian</guid>
+      <description>인천 브라질리언 왁싱 예약 전 원하는 정리 범위, 털 길이, 관리 당일 일정과 사후 관리 포인트를 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>인천 남자 브라질리언 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/incheon/male-brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/incheon/male-brazilian</guid>
+      <description>인천 남자 브라질리언 왁싱 첫 예약 시 전체·부분 정리 범위, 털 길이와 시간 여유, 관리 후 일정까지 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>인천 슈가링 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/incheon/sugaring</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/incheon/sugaring</guid>
+      <description>인천 슈가링 왁싱을 알아볼 때 페이스트 재료, 사용 온도와 제거 방향, 예약 전 질문과 관리 후 일정을 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>인천 임산부 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/incheon/pregnancy</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/incheon/pregnancy</guid>
+      <description>인천 임산부 왁싱 예약 전 의료진 상의, 임신 주수, 컨디션과 방문 일정을 어떻게 정리할지 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>광주 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/gwangju</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/gwangju</guid>
+      <description>광주 지역의 브라질리언, 남자 브라질리언, 슈가링, 임산부 왁싱 선택과 예약 전 준비를 정리했습니다.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>광주 브라질리언 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/gwangju/brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/gwangju/brazilian</guid>
+      <description>광주 브라질리언 왁싱이 처음이라면 전체 제거, 모양 남기기, 라인 정리의 차이와 방문 전·후 확인사항을 살펴보세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>광주 남자 브라질리언 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/gwangju/male-brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/gwangju/male-brazilian</guid>
+      <description>광주 남자 브라질리언 왁싱을 처음 알아볼 때 관리 범위, 노출 방식, 털 길이와 피부 상태 등 예약 전 궁금한 점을 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>광주 슈가링 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/gwangju/sugaring</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/gwangju/sugaring</guid>
+      <description>광주 슈가링 왁싱이 처음이라면 일반 왁싱과의 재료, 온도, 제거 방향 차이와 관리 후 주의사항을 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>광주 임산부 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/gwangju/pregnancy</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/gwangju/pregnancy</guid>
+      <description>광주 임산부 왁싱을 처음 문의할 때 의료진 상담, 임신 주수, 출산 예정일과 당일 컨디션을 어떻게 전달할지 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>울산 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/ulsan</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/ulsan</guid>
+      <description>울산 지역의 브라질리언, 남자 브라질리언, 슈가링, 임산부 왁싱 선택과 예약 전 준비를 정리했습니다.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>울산 브라질리언 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/ulsan/brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/ulsan/brazilian</guid>
+      <description>울산 브라질리언 왁싱 예약 전 정리 범위와 털 길이를 확인하고, 운동·사우나 등 관리 후 일정까지 함께 계획하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>울산 남자 브라질리언 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/ulsan/male-brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/ulsan/male-brazilian</guid>
+      <description>울산 남자 브라질리언 왁싱을 처음 예약할 때 시간 여유, 털 길이, 정리 범위와 관리 후 생활 일정을 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>울산 슈가링 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/ulsan/sugaring</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/ulsan/sugaring</guid>
+      <description>울산 슈가링 왁싱 예약 전 일반 왁싱과의 차이, 피부 상태와 관리 후 자극을 줄일 일정 계획을 확인하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>울산 임산부 왁싱 | TB왁싱</title>
+      <link>https://tbwaxing.pages.dev/region/ulsan/pregnancy</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/ulsan/pregnancy</guid>
+      <description>울산 임산부 왁싱은 임신 주수와 의료진 상담, 당일 컨디션을 우선해 예약하고 무리하지 않는 일정으로 준비하세요.</description>
+      <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
+    </item>
     <item>
       <title>대전 왁싱 | TB왁싱</title>
-      <link>https://tbwaxing.pages.dev/region/daejeon.html</link>
-      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon.html</guid>
+      <link>https://tbwaxing.pages.dev/region/daejeon</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon</guid>
       <description>대전 지역의 브라질리언, 남자 브라질리언, 슈가링, 임산부 왁싱 안내와 예약 전 확인사항을 정리했습니다.</description>
       <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
     </item>
     <item>
       <title>대전 브라질리언 왁싱 | TB왁싱</title>
-      <link>https://tbwaxing.pages.dev/region/daejeon/brazilian.html</link>
-      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon/brazilian.html</guid>
+      <link>https://tbwaxing.pages.dev/region/daejeon/brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon/brazilian</guid>
       <description>대전 브라질리언 왁싱의 범위 선택, 방문 전 준비와 관리 후 주의사항을 확인하세요.</description>
       <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
     </item>
     <item>
       <title>대전 남자 브라질리언 왁싱 | TB왁싱</title>
-      <link>https://tbwaxing.pages.dev/region/daejeon/male-brazilian.html</link>
-      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon/male-brazilian.html</guid>
+      <link>https://tbwaxing.pages.dev/region/daejeon/male-brazilian</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon/male-brazilian</guid>
       <description>대전 남자 브라질리언 왁싱 첫 방문 전 범위, 털 길이, 피부 상태와 예약 준비를 확인하세요.</description>
       <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
     </item>
     <item>
       <title>대전 슈가링 왁싱 | TB왁싱</title>
-      <link>https://tbwaxing.pages.dev/region/daejeon/sugaring.html</link>
-      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon/sugaring.html</guid>
+      <link>https://tbwaxing.pages.dev/region/daejeon/sugaring</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon/sugaring</guid>
       <description>대전 슈가링 왁싱의 방식 차이, 예약 전 비교 포인트와 관리 후 안내를 확인하세요.</description>
       <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
     </item>
     <item>
       <title>대전 임산부 왁싱 | TB왁싱</title>
-      <link>https://tbwaxing.pages.dev/region/daejeon/pregnancy.html</link>
-      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon/pregnancy.html</guid>
+      <link>https://tbwaxing.pages.dev/region/daejeon/pregnancy</link>
+      <guid isPermaLink="true">https://tbwaxing.pages.dev/region/daejeon/pregnancy</guid>
       <description>대전 임산부 왁싱 예약 전에 확인할 담당 의료진 상담, 임신 주수와 컨디션 전달사항을 정리했습니다.</description>
       <pubDate>Sat, 03 Oct 2026 19:19:00 +0900</pubDate>
     </item>
