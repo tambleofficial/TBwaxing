@@ -1,20 +1,30 @@
 {
+  "deployment_type": "incremental",
   "region": "부산",
   "added": [
-    "region/busan.html",
-    "DEPLOY.txt",
-    "manifest.json"
+    "region/busan/haeundae.html",
+    "region/busan/suyeong.html",
+    "region/busan/busanjin.html",
+    "region/busan/dongnae.html",
+    "assets/images/region/busan/haeundae-card.webp",
+    "assets/images/region/busan/suyeong-card.webp",
+    "assets/images/region/busan/busanjin-card.webp",
+    "assets/images/region/busan/dongnae-card.webp",
+    "DEPLOY.txt"
   ],
   "updated": [
-    "_redirects",
-    "sitemap.xml"
+    "region/busan.html",
+    "assets/css/style.css",
+    "sitemap.xml",
+    "manifest.json"
   ],
   "deleted": [],
-  "unchanged": [
-    "index.html",
-    "find/index.html",
-    "assets/css/style.css",
-    "assets/js/main.js",
-    "assets/images/space-4.webp"
+  "upload_order": [
+    "이 ZIP의 내용을 저장소 루트에 그대로 업로드/덮어쓰기"
+  ],
+  "notes": [
+    "루트 /index.html은 변경하지 않음",
+    "기존 /busan/ → /region/busan.html 301 규칙은 원본 _redirects에 이미 있어 _redirects는 변경하지 않음",
+    "지역명만 바꾼 얇은 서비스 클러스터는 생성하지 않음"
   ]
 }
