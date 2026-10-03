@@ -4,4 +4,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://tbwaxing.co.kr/sitemap.xml
+Sitemap: https://tbwaxing.pages.dev/sitemap.xml
