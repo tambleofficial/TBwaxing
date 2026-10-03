@@ -60,7 +60,7 @@ jobs:
             fi
 
             found=1
-            echo "$cf_checks" | jq -r '.[] | "Cloudflare: \(.name) | status=\(.status) | conclusion=\(.conclusion // \"-\")"'
+            echo "$cf_checks" | jq -r '.[] | "Cloudflare: \(.name) | status=\(.status) | conclusion=\(.conclusion // "-")"'
 
             failed="$(echo "$cf_checks" | jq '[.[] | select(.status == "completed" and (.conclusion != "success" and .conclusion != "skipped"))] | length')"
 
