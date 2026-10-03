@@ -35,3 +35,9 @@
 - 8개 카드가 각각 실제 안내 페이지로 연결됩니다.
 - 공간 소개 이미지는 기존 로컬 이미지, 나머지 7개는 Pexels 무료 이미지 CDN을 사용합니다.
 - 연결: /space/, /first-visit.html, /process/, /service/brazilian/, /service/male-brazilian/, /service/sugaring/, /service/pregnancy/, /faq/
+
+## Naver IndexNow 자동 전송
+- 인증 키 파일: /84888de1a74b4c860cd2d70ea9457428.txt
+- GitHub Actions: .github/workflows/naver-indexnow.yml
+- main 브랜치에 HTML 페이지가 추가/수정/삭제되면 Cloudflare Pages 배포 완료 후 변경 URL을 네이버 IndexNow로 자동 전송합니다.
+- 최초 전체 전송은 GitHub Actions → Naver IndexNow → Run workflow → mode: all 로 1회 실행합니다.
